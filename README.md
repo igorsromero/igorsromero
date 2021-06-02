@@ -1,8 +1,8 @@
 ### Olá 👋
 
 Meu nome é Igor Solfa Romero.
-- 📍 Residente em Lins/SP e Birigui/SP
-- ⚙️ Graduando em Engenharia de Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Birigui.
+- 📍 Reside em Lins/SP e Birigui/SP
+- ⚙️ Graduando em Engenharia de Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Birigui (2017 - atual).
 - 💻 Técnico em Informática para Internet pela ETEC de Lins (2017).
 - 📡 Sempre em busca de novos conhecimentos e de aprimoramento.
 
