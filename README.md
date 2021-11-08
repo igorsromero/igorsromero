@@ -7,16 +7,16 @@ Meu nome é Igor Solfa Romero.
 - 📡 Foco de carreira como Desenvolvedor FullStack Node.js.
 - 👉 Site: https://www.igorsromero.dev/
 
-  <div style="display: inline_block"><br>
+<div style="display: inline_block; margin-top: 50px;">
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-     <img align="center" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-     <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-      <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  </div>
+<img align="center" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
 
 
-<p align="left" style="margin-top: 5px;">
+<p align="left" style="margin-top: 10px;">
   <a href="https://github.com/igorsromero">
    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=igorsromero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs" />
 
