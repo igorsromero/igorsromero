@@ -1,10 +1,10 @@
 ### Olá 👋
 
 Meu nome é Igor Solfa Romero.
-- 📍 Reside em Lins/SP e Birigui/SP
+- 📍 Resido em Lins/SP
 - ⚙️ Graduando em Engenharia de Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Birigui (2017 - atual).
-- 💻 Técnico em Informática para Internet pela ETEC de Lins (2017).
-- 📡 Foco de carreira como Desenvolvedor FullStack Node.js.
+- 💻 Técnico em Informática para Internet pela ETEC de Lins (2016).
+- 📡 Foco de carreira como Desenvolvedor Back-end Node.js.
 - 👉 Site: https://www.igorsromero.dev/
 
 <div style="display: inline_block; margin-top: 50px;">
